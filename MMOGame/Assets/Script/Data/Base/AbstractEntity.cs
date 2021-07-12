@@ -7,15 +7,11 @@ using UnityEngine;
 /// </summary>
 public class AbstractEntity
 {
-    // Start is called before the first frame update
-    void Start()
+    /// <summary>
+    /// …Ã∆∑±‡∫≈
+    /// </summary>
+    public int Id
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        get; set;
     }
 }

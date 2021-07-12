@@ -9,9 +9,16 @@ public class TestMMO2 : MonoBehaviour
     {
         List<ProductEntity> lst = ProductDBModel.Instance.GetList();
 
-        for (int i = 0; i < lst.Count; i++)
+        //for (int i = 0; i < lst.Count; i++)
+        //{
+        //    Debug.Log(lst[i].Name);
+        //}
+
+        ProductEntity entity = ProductDBModel.Instance.Get(5);
+
+        if (entity!=null)
         {
-            Debug.Log(lst[i].Name);
+            Debug.Log(entity.Name);
         }
     }
 
