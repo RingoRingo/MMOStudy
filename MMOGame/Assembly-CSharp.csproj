@@ -80,6 +80,9 @@
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\InfBlocks.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\ZInputStream.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\Adler32.cs" />
+    <Compile Include="Assets\Script\Common\Net\NetWorkHttp.cs" />
+    <Compile Include="Assets\Script\GlobalInit.cs" />
+    <Compile Include="Assets\Script\Data\NetData\Entity\AccountEntity.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -318,6 +321,9 @@
     </Reference>
     <Reference Include="Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.5.2\Runtime\VisualScripting.Flow\Dependencies\NCalc\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="LitJson">
+      <HintPath>Assets\Plugins\LitJson.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>C:\Program Files\Unity\Hub\Editor\2021.1.5f1c1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
