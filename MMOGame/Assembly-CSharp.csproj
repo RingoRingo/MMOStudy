@@ -63,26 +63,32 @@
     <Compile Include="Assets\Script\Data\LocalData\Create\ProductDBModel.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\ZStreamException.cs" />
     <Compile Include="Assets\Script\StringUtil.cs" />
+    <Compile Include="Assets\Script\Data\Proto\TestProto.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\StaticTree.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\Inflate.cs" />
     <Compile Include="Assets\Script\Common\Core\GameDataTableParser.cs" />
     <Compile Include="Assets\Script\Common\Core\ZlibHelper.cs" />
+    <Compile Include="Assets\Script\GlobalInit.cs" />
+    <Compile Include="Assets\Script\Common\Net\NetWorkSocket.cs" />
+    <Compile Include="Assets\TestMMO3.cs" />
     <Compile Include="Assets\TestMMO.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\ZStream.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\Zlib.cs" />
     <Compile Include="Assets\Script\Data\Base\AbstractDBModel.cs" />
     <Compile Include="Assets\Script\MMO_MemoryStream.cs" />
+    <Compile Include="Assets\Script\Data\NetData\Entity\AccountEntity.cs" />
     <Compile Include="Assets\TestMMO2.cs" />
     <Compile Include="Assets\Script\Data\Base\AbstractEntity.cs" />
     <Compile Include="Assets\Script\Data\LocalData\Create\ProductEntity.cs" />
+    <Compile Include="Assets\Script\Common\Core\IProto.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\ZOutputStream.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\Deflate.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\InfBlocks.cs" />
     <Compile Include="Assets\Script\Common\Core\zlib_NET_104\ZInputStream.cs" />
-    <Compile Include="Assets\Script\Common\Core\zlib_NET_104\Adler32.cs" />
     <Compile Include="Assets\Script\Common\Net\NetWorkHttp.cs" />
-    <Compile Include="Assets\Script\GlobalInit.cs" />
-    <Compile Include="Assets\Script\Data\NetData\Entity\AccountEntity.cs" />
+    <Compile Include="Assets\Script\Common\Core\zlib_NET_104\Adler32.cs" />
+    <Compile Include="Assets\Script\Common\Core\EventDispatch.cs" />
+    <Compile Include="Assets\Script\Data\Singleton.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

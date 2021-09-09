@@ -25,6 +25,8 @@ public class MMO_MemoryStream : MemoryStream
         base.Read(arr, 0, 2);
         return BitConverter.ToInt16(arr, 0);
     }
+
+   
     /// <summary>
     /// 把一个short数组写入流
     /// </summary>
@@ -179,7 +181,7 @@ public class MMO_MemoryStream : MemoryStream
     /// 把一个double数组写入流
     /// </summary>
     /// <param name="value"></param>
-    public void WriteUInt(double value)
+    public void WriteDouble(double value)
     {
         byte[] arr = BitConverter.GetBytes(value);
         base.Write(arr, 0, arr.Length);
