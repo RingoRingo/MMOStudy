@@ -1,0 +1,1424 @@
+fileFormatVersion: 2
+guid: 51b49a173bdfacb479d8fb669f78ee86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1461596976484184518
+    second: UICommonAtlas_0
+  - first:
+      213: -2395678941653699799
+    second: UICommonAtlas_1
+  - first:
+      213: -3158870324890612701
+    second: UICommonAtlas_2
+  - first:
+      213: 1469534720256870531
+    second: UICommonAtlas_3
+  - first:
+      213: -8063968240912849423
+    second: UICommonAtlas_4
+  - first:
+      213: 5592647593518453535
+    second: UICommonAtlas_5
+  - first:
+      213: 9043893327121095045
+    second: UICommonAtlas_6
+  - first:
+      213: -823355318733888578
+    second: UICommonAtlas_7
+  - first:
+      213: 7900632244276778470
+    second: UICommonAtlas_8
+  - first:
+      213: 8757373722982995878
+    second: UICommonAtlas_9
+  - first:
+      213: 699402123948167165
+    second: UICommonAtlas_10
+  - first:
+      213: 1357378788653440984
+    second: UICommonAtlas_11
+  - first:
+      213: -2131808071326729289
+    second: ProgressBar1_BG
+  - first:
+      213: -7729156673420299599
+    second: UICommonAtlas_13
+  - first:
+      213: -4121248558193875465
+    second: UICommonAtlas_14
+  - first:
+      213: 4342303185131415319
+    second: UICommonAtlas_15
+  - first:
+      213: 5540211595451463875
+    second: ProgressBar1_Front
+  - first:
+      213: -1842701541929979272
+    second: UICommonAtlas_17
+  - first:
+      213: 3000365427505463478
+    second: UICommonAtlas_18
+  - first:
+      213: -1829963304359856171
+    second: UICommonAtlas_19
+  - first:
+      213: -3520185960497151961
+    second: UICommonAtlas_20
+  - first:
+      213: 5147033854996718818
+    second: UICommonAtlas_21
+  - first:
+      213: -6373457719471661092
+    second: BG_003
+  - first:
+      213: 5667461208705537295
+    second: UICommonAtlas_23
+  - first:
+      213: -9003247832485108052
+    second: UICommonAtlas_24
+  - first:
+      213: 743607386990459743
+    second: UICommonAtlas_25
+  - first:
+      213: -8765441640657590077
+    second: UICommonAtlas_26
+  - first:
+      213: -3697223610494984470
+    second: UICommonAtlas_27
+  - first:
+      213: -1576794995169503555
+    second: UICommonAtlas_28
+  - first:
+      213: -4767202487190498653
+    second: UICommonAtlas_29
+  - first:
+      213: -737611897399328311
+    second: UICommonAtlas_30
+  - first:
+      213: -5405342942668460696
+    second: UICommonAtlas_31
+  - first:
+      213: -3834595549948550788
+    second: UICommonAtlas_32
+  - first:
+      213: -2410137393164860268
+    second: UICommonAtlas_33
+  - first:
+      213: 5104152800865542056
+    second: UICommonAtlas_34
+  - first:
+      213: -8038395375630300191
+    second: UICommonAtlas_35
+  - first:
+      213: -2589074430972448548
+    second: UICommonAtlas_36
+  - first:
+      213: 5423055421360425272
+    second: UICommonAtlas_37
+  - first:
+      213: -3922343449290765015
+    second: UICommonAtlas_38
+  - first:
+      213: 1823292820672712763
+    second: UICommonAtlas_39
+  - first:
+      213: 7559098811260200668
+    second: UICommonAtlas_40
+  - first:
+      213: -2401273892067406971
+    second: UICommonAtlas_41
+  - first:
+      213: -6457752608768218931
+    second: UICommonAtlas_42
+  - first:
+      213: -7009301872625889135
+    second: UICommonAtlas_43
+  - first:
+      213: 6058126770379485519
+    second: UICommonAtlas_44
+  - first:
+      213: 1825153950200295031
+    second: UICommonAtlas_45
+  - first:
+      213: 236113166630299233
+    second: UICommonAtlas_46
+  - first:
+      213: -1328576620335000811
+    second: UICommonAtlas_47
+  - first:
+      213: -5180202729910551308
+    second: UICommonAtlas_0
+  - first:
+      213: 2402253521905678470
+    second: UICommonAtlas_1
+  - first:
+      213: 9186462410525298839
+    second: UICommonAtlas_2
+  - first:
+      213: 468126955423137406
+    second: UICommonAtlas_3
+  - first:
+      213: 2358368397150069266
+    second: UICommonAtlas_4
+  - first:
+      213: -4801680098604125094
+    second: UICommonAtlas_5
+  - first:
+      213: -1318244994696200730
+    second: UICommonAtlas_6
+  - first:
+      213: 9064629644475805988
+    second: UICommonAtlas_7
+  - first:
+      213: 9024842998984828381
+    second: UICommonAtlas_8
+  - first:
+      213: 2412616167627966178
+    second: UICommonAtlas_9
+  - first:
+      213: -546041052420009482
+    second: UICommonAtlas_10
+  - first:
+      213: -2197204435170270375
+    second: UICommonAtlas_11
+  - first:
+      213: -8370573214466791393
+    second: UICommonAtlas_12
+  - first:
+      213: 8854441783473658200
+    second: UICommonAtlas_13
+  - first:
+      213: 5354767596652615220
+    second: UICommonAtlas_14
+  - first:
+      213: -7376400726344246513
+    second: UICommonAtlas_15
+  - first:
+      213: 895514027036019067
+    second: ProgressBar1_Front
+  - first:
+      213: 2686325386966473751
+    second: UICommonAtlas_17
+  - first:
+      213: -2621504310125794941
+    second: UICommonAtlas_18
+  - first:
+      213: -7326727781324581401
+    second: UICommonAtlas_19
+  - first:
+      213: -5645222257080457469
+    second: UICommonAtlas_20
+  - first:
+      213: -1914802069653045789
+    second: UICommonAtlas_21
+  - first:
+      213: -298062407311786879
+    second: UICommonAtlas_22
+  - first:
+      213: -8051136912781187887
+    second: UICommonAtlas_23
+  - first:
+      213: 6514121068615757266
+    second: UICommonAtlas_24
+  - first:
+      213: -1405883608421831512
+    second: UICommonAtlas_25
+  - first:
+      213: 4529731906744400206
+    second: UICommonAtlas_26
+  - first:
+      213: -1842433646937573414
+    second: UICommonAtlas_27
+  - first:
+      213: 32505886270385898
+    second: UICommonAtlas_28
+  - first:
+      213: 1688572357687732323
+    second: UICommonAtlas_29
+  - first:
+      213: -1772213249270838091
+    second: UICommonAtlas_30
+  - first:
+      213: -6795547695176376944
+    second: UICommonAtlas_31
+  - first:
+      213: -3272409605534382653
+    second: UICommonAtlas_32
+  - first:
+      213: 338274282749278356
+    second: UICommonAtlas_33
+  - first:
+      213: -783886390796047563
+    second: UICommonAtlas_34
+  - first:
+      213: 2933311129195378974
+    second: UICommonAtlas_35
+  - first:
+      213: -3896246810024452023
+    second: UICommonAtlas_36
+  - first:
+      213: -8838636385948892452
+    second: UICommonAtlas_37
+  - first:
+      213: 2403070790207205367
+    second: UICommonAtlas_38
+  - first:
+      213: 7238597543514441945
+    second: UICommonAtlas_39
+  - first:
+      213: 3684467536613375381
+    second: UICommonAtlas_40
+  - first:
+      213: -3406831125431168724
+    second: UICommonAtlas_41
+  - first:
+      213: -270349628813880693
+    second: UICommonAtlas_42
+  - first:
+      213: 4787186009284926677
+    second: UICommonAtlas_43
+  - first:
+      213: 588519548249626061
+    second: UICommonAtlas_44
+  - first:
+      213: -4871959576243368384
+    second: UICommonAtlas_45
+  - first:
+      213: -5319778351797537263
+    second: UICommonAtlas_46
+  - first:
+      213: -3572468073017191054
+    second: UICommonAtlas_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 5
+  maxTextureSize: 4096
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 4
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 0
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UICommonAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 385
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc3c2320193c18b0800000000000000
+      internalID: -1461596976484184518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 453
+        width: 202
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6887e99b9d4865120800000000000000
+      internalID: -2395678941653699799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 453
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790d6d1f3eedc7f70800000000000000
+      internalID: -3158870324890612701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 453
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ef7c75cfe1f7600800000000000000
+      internalID: 1469534720256870531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 452
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21223a1ef8b9ab020800000000000000
+      internalID: -8063968240912849423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 365
+        width: 86
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5473a504610d5db0800000000000000
+      internalID: 5592647593518453535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 438
+        width: 110
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed32346927a4bde0800000000000000
+      internalID: 9043893327121095045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 415
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421b47b92a80ccd70800000000000000
+      internalID: -823355318733888578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 372
+        width: 83
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5692454eeae3d70800000000000000
+      internalID: 7900632244276778470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 369
+        width: 81
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e644d23f955b7120800000000000000
+      internalID: 8757373722982995878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 424
+        width: 145
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f199bd4e821c68f0800000000000000
+      internalID: 699402123948167165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 332
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95363ce1536f181e0800000000000000
+      internalID: 1357378788653440984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBar1_BG
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 393
+        width: 150
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 7, z: 22, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18ae49b200c5db80800000000000000
+      internalID: -2131808071326729289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 370
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d254a3eb41ea70800000000000000
+      internalID: -7729156673420299599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 385
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436504522c4ff4a40800000000000000
+      internalID: -4121248558193875465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 305
+        width: 83
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b51590f92c1a990800000000000000
+      internalID: 4342303185131415319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ProgressBar1_Front
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 113
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b798cd053418d6c00800000000000000
+      internalID: 5540211595451463875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 296
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c1049e4beb74520800000000000000
+      internalID: -1842701541929979272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 300
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389ebc128bb8e9bd0800000000000000
+      internalID: 3000365427505463478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 305
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5992cc6eb325a90800000000000000
+      internalID: -1829963304359856171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3072790544428a1b0800000000000000
+      internalID: -3520185960497151961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 283
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb527a9a14d65e0800000000000000
+      internalID: 5147033854996718818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BG_003
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 278
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c784bd1d11ddbf0800000000000000
+      internalID: -6373457719471661092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 327
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d464a372ad944090800000000000000
+      internalID: 5667461208705537295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 276
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddeabe399ec66a50800000000000000
+      internalID: -9003247832485108052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 283
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ace87c8e4c4d7ce0800000000000000
+      internalID: 743607386990459743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 204
+        width: 86
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49b04d6b27dcde30800000000000000
+      internalID: -8765441640657590077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 243
+        width: 86
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7fe081c5c5e66e0800000000000000
+      internalID: -3697223610494984470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 189
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee614c6eeb737000800000000000000
+      internalID: -1576794995169503555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 215
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3686585ec930f6710800000000000000
+      internalID: -4767202487190498653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 219
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc88fa7075d767e0800000000000000
+      internalID: -737611897399328311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 214
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d99c6206d51b1a0800000000000000
+      internalID: -5405342942668460696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 186
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c50c8e3dc01692d0800000000000000
+      internalID: -3834595549948550788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 186
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498bbebfaaac1b400800000000000000
+      internalID: -2410137393164860268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 202
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ba6541b731f15f0800000000000000
+      internalID: 5104152800865542056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 136
+        width: 174
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19f36f3ee635b820800000000000000
+      internalID: -8038395375630300191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 153
+        width: 154
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9406e336b20cde9c0800000000000000
+      internalID: -2589074430972448548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 214
+        width: 38
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd28cac390bd65580800000000000000
+      internalID: 5423055421360425272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 136
+        width: 213
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffea64d62c695120800000000000000
+      internalID: -3922343449290765015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 128
+        width: 154
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d881353d1aa47460800000000000000
+      internalID: 1823292820672712763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 64
+        width: 123
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d7c4214bbd12330800000000000000
+      internalID: 7559098811260200668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 125
+        width: 154
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c215eee342188b0d0800000000000000
+      internalID: -2401273892067406971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 0
+        width: 303
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82d369e1768f3cf0800000000000000
+      internalID: -6457752608768218931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 64
+        width: 206
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcd525df408f6240800000000000000
+      internalID: -7009301872625889135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 64
+        width: 154
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5dac83967da2800800000000000000
+      internalID: 6058126770379485519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 0
+        width: 206
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e83f10492536cb0800000000000000
+      internalID: 1825153950200295031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 206
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1167b4146c95c26b0800000000000000
+      internalID: 236113166630299233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UICommonAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 0
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275d260273b0c6ec0800000000000000
+      internalID: -1328576620335000811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
