@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\CameraCtrl.cs" />
      <Compile Include="Assets\RoleCtrl.cs" />
      <Compile Include="Assets\Scripts\Common\EnumDefine.cs" />
      <Compile Include="Assets\Scripts\Common\GlobalInit.cs" />
