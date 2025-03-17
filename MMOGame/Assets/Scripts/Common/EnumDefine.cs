@@ -96,3 +96,22 @@ public enum WindowShowStyle
     FromRight
 }
 #endregion
+
+#region RoleType
+/// <summary>
+/// 角色类型
+/// </summary>
+public enum RoleType
+{
+    None=0,
+    /// <summary>
+    /// 当前玩家
+    /// </summary>
+    MainPlayer = 1,
+    /// <summary>
+    /// 怪
+    /// </summary>
+    Monster = 2
+}
+#endregion
+

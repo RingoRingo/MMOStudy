@@ -3,11 +3,47 @@
   "WorkspaceRootPath": "H:\\UnityDownload\\MMOStudy\\MMOGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\rolectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\rolectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\scripts\\role\\rolectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\role\\rolectrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\cameractrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\scripts\\role\\fsm\\rolefsmmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\role\\fsm\\rolefsmmgr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\scripts\\role\\roleinfo\\roleinfomainplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\role\\roleinfo\\roleinfomainplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\scripts\\role\\ai\\rolemonsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\role\\ai\\rolemonsterai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\scripts\\role\\ai\\rolemainplayercityai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\role\\ai\\rolemainplayercityai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\scripts\\role\\ai\\iroleai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\role\\ai\\iroleai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\scripts\\role\\roleinfo\\roleinfomonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\role\\roleinfo\\roleinfomonster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\scripts\\role\\roleinfo\\roleinfobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\role\\roleinfo\\roleinfobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\fingerevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\fingerevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|h:\\unitydownload\\mmostudy\\mmogame\\assets\\scripts\\common\\enumdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\common\\enumdefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|H:\\UnityDownload\\MMOStudy\\MMOGame\\assets\\cameractrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AF4A590-7F8C-A5EB-90E8-94601E617DD3}|Assembly-CSharp.csproj|solutionrelative:assets\\cameractrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,32 +54,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CameraCtrl.cs",
-              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\CameraCtrl.cs",
-              "RelativeDocumentMoniker": "Assets\\CameraCtrl.cs",
-              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\CameraCtrl.cs",
-              "RelativeToolTip": "Assets\\CameraCtrl.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Title": "RoleFSMMgr.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\FSM\\RoleFSMMgr.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Role\\FSM\\RoleFSMMgr.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\FSM\\RoleFSMMgr.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Role\\FSM\\RoleFSMMgr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T13:36:43.54Z",
+              "WhenOpened": "2025-02-17T15:54:55.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleMonsterAI.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\AI\\RoleMonsterAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Role\\AI\\RoleMonsterAI.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\AI\\RoleMonsterAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Role\\AI\\RoleMonsterAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:53:08.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRoleAI.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\AI\\IRoleAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Role\\AI\\IRoleAI.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\AI\\IRoleAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Role\\AI\\IRoleAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:51:23.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RoleInfoMonster.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\RoleInfo\\RoleInfoMonster.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Role\\RoleInfo\\RoleInfoMonster.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\RoleInfo\\RoleInfoMonster.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Role\\RoleInfo\\RoleInfoMonster.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:50:40.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleInfoMainPlayer.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\RoleInfo\\RoleInfoMainPlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Role\\RoleInfo\\RoleInfoMainPlayer.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\RoleInfo\\RoleInfoMainPlayer.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Role\\RoleInfo\\RoleInfoMainPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:50:21.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoleMainPlayerCityAI.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\AI\\RoleMainPlayerCityAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Role\\AI\\RoleMainPlayerCityAI.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\AI\\RoleMainPlayerCityAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Role\\AI\\RoleMainPlayerCityAI.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:50:13.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleInfoBase.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\RoleInfo\\RoleInfoBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Role\\RoleInfo\\RoleInfoBase.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\RoleInfo\\RoleInfoBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Role\\RoleInfo\\RoleInfoBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:48:13.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnumDefine.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Common\\EnumDefine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Common\\EnumDefine.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Common\\EnumDefine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Common\\EnumDefine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:45:45.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FingerEvent.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\FingerEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\FingerEvent.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\FingerEvent.cs",
+              "RelativeToolTip": "Assets\\FingerEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T15:35:21.181Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "RoleCtrl.cs",
-              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\RoleCtrl.cs",
-              "RelativeDocumentMoniker": "Assets\\RoleCtrl.cs",
-              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\RoleCtrl.cs",
-              "RelativeToolTip": "Assets\\RoleCtrl.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAQwGkAAAAxAAAA",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\RoleCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Role\\RoleCtrl.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\Scripts\\Role\\RoleCtrl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Role\\RoleCtrl.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAwF8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-04T13:32:31.046Z",
+              "WhenOpened": "2025-02-17T15:31:41.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CameraCtrl.cs",
+              "DocumentMoniker": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\CameraCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraCtrl.cs",
+              "ToolTip": "H:\\UnityDownload\\MMOStudy\\MMOGame\\Assets\\CameraCtrl.cs",
+              "RelativeToolTip": "Assets\\CameraCtrl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:36:43.54Z",
               "EditorCaption": ""
             }
           ]

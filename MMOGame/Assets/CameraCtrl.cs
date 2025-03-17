@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Security.Cryptography;
 using UnityEngine;
@@ -20,5 +21,17 @@ public class CameraCtrl : MonoBehaviour
 
     public void Init() { 
         
+    }
+
+    internal void SetCameraZoom(int v)
+    {
+    }
+
+    internal void SetCameraRotate(int v)
+    {
+    }
+
+    internal void SetCameraUpAndDown(int v)
+    {
     }
 }
